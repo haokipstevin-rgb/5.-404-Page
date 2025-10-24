@@ -39,9 +39,7 @@ This project is open source and free to use under the [MIT License](LICENSE).
 
 **Author:** 
 Saiyonba Sorokhaibam
+
 🎨 Inspired by modern UI simplicity and minimal design principles.
 
-```
 
-Would you like me to include a **license file (MIT)** and a **short description line for GitHub** (like “A minimal custom 404 page for any website”)?
-```
